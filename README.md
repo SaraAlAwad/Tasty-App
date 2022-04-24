@@ -21,7 +21,7 @@ HTML. CSS (Bootstrap), React
 
 - search meals by name and ingredients 
 - generate a random meal 
-- provide a details instructions on how to prepare the meal
+- provide a detailed instructions on how to prepare the meal
 
 ## Deployment
 this project is deployed on netlify
