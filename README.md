@@ -25,5 +25,5 @@ HTML. CSS (Bootstrap), React
 
 ## Deployment
 this project is deployed on netlify
-link : https://titan-tastyapp.netlify.app/
+link : https://tasty-app-supercode.netlify.app/
 
